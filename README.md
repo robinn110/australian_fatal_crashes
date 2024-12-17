@@ -51,3 +51,31 @@ However, the number of fatalities at nighttime was still high compared to peak h
 #### Speed limit 
 The number of victims who were killed on the roads with the speed limit from 60 to 110 km/h is higher than others. At the same time, the highest number of deaths happened on the streets, with the speed limit of 60km/h and 100km/h. 
 
+## Recommendations 
+The following recommendations aim to reduce road deaths and improve road safety:
+#### 1.	Enhance Public Awareness Campaigns:
+- 	Focus on high-risk groups, particularly males and individuals aged 17–25.
+- 	Promote safe driving behaviours, emphasising the dangers of speeding, fatigue, and drunk driving.
+#### 2.	Targeted Law Enforcement:
+- Increase enforcement during high-risk hours, such as afternoons (after 2 PM) and nighttime, to deter risky behaviours like speeding and drunk driving.
+- Implement stricter penalties for repeat offenders.
+#### 3.	Infrastructure Improvements:
+- Upgrade road safety features, especially on roads with speed limits of 60–100 km/h, with the highest fatalities.
+- Invest in better lighting and signage, particularly on arterial and local roads with high fatalities.
+#### 4.	Focused Interventions for Vulnerable Road Users:
+- Design safer infrastructure for pedestrians, cyclists, and motorcyclists, such as dedicated lanes and pedestrian crossings.
+- Conduct educational campaigns targeting vulnerable road users and drivers to improve mutual awareness.
+#### 5.	Time-Based Road Safety Programs:
+- Align road safety campaigns with high-risk months like March and December to address seasonal spikes in fatalities.
+-	Promote road safety during holidays when traffic volumes increase.
+## Limitations
+While this analysis provides valuable insights, several limitations should be acknowledged:
+#### 1.	Data Completeness:
+- 	The dataset only includes data up to October 2023, which limits the completeness of the 2023 analysis.
+#### 2.	Attribution of Causes:
+- This analysis does not include data on additional factors that may influence crashes, such as alcohol consumption, weather conditions, road quality, and traffic volume, which could provide deeper insights into the causes and circumstances of road fatalities due to a lack of granular data.
+- Behavioural assumptions (e.g., male tendencies toward risky behaviours) are based on general patterns rather than causal evidence.
+#### 3.	Lack of Socioeconomic Context:
+- Socioeconomic factors (e.g., income, access to safe vehicles) are not included in the dataset, which could provide additional context for road safety disparities.
+
+
