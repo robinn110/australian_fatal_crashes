@@ -7,6 +7,8 @@ The dataset includes two tables of Crashes and Fatalities collected from January
 
 Link to the dataset: [Download here](https://data.gov.au/dataset/ds-dga-5b530fb8-526e-4fbf-b0f6-aa24e84e4277/details)
 
+Link to the interactive dashboard: [Link](https://app.fabric.microsoft.com/view?r=eyJrIjoiZmYyZjFiMGUtMjViOS00MWZhLTlhYTYtMjBkOGQ0YWQyMTIxIiwidCI6Ijg0NTZjNDAxLTU2MDEtNDUyOS1hNDQ2LWVmZDNkZTMyNmMyMCJ9)
+
 ## Insights
 ### 1.	Victim demographics 
 ![image](https://github.com/user-attachments/assets/1ba365eb-dacc-4ab3-ba78-0f78e47fdebc)
